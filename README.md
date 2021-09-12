@@ -11,8 +11,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhilvinoy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<span><img src="https://commons.wikimedia.org/wiki/File:Tux.svg" alt="Tux" width="50px"></span>&nbsp;
-
 <!--START_SECTION:activity-->
 
 Wondering how I created this?
