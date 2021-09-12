@@ -29,6 +29,9 @@ Wondering how to create this?
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=screwnet&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+Wondering how to create this?
 * [Check it out here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme "Managing your profile README")
 * [Emoji references](https://gist.github.com/rxaviers/7360908)
 
