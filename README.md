@@ -42,4 +42,16 @@ Wondering how to create this?
 Free to use with GPLv3 <br>
 Best viewed in [dark mode](https://github.com/settings/appearance)
 <br>
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
+![00000F](https://via.placeholder.com/15/00000F/000000?text=+)
+![0000FF](https://via.placeholder.com/15/0000FF/000000?text=+)
+![000FFF](https://via.placeholder.com/15/000FFF/000000?text=+)
+![00FFFF](https://via.placeholder.com/15/00FFFF/000000?text=+)
+![0FFFFF](https://via.placeholder.com/15/0FFFFF/000000?text=+)
+![FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+![F00000](https://via.placeholder.com/15/F00000/000000?text=+)
+![FF0000](https://via.placeholder.com/15/FF0000/000000?text=+)
+![FFF000](https://via.placeholder.com/15/FFF000/000000?text=+)
+![FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+)
+![FFFFF0](https://via.placeholder.com/15/FFFFF0/000000?text=+)
+![000000](https://via.placeholder.com/15/000000/000000?text=+)
+<!-- C/O https://placeholder.com/  -->
