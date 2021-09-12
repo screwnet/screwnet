@@ -13,7 +13,7 @@
 
 <!--START_SECTION:activity-->
 
-Wondering how I created this?
+Wondering how to create this?
 
 * [Check it out here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme "Managing your profile README")
 * [Emoji references](https://gist.github.com/rxaviers/7360908)
