@@ -1,4 +1,4 @@
-# Hello world! 👋
+# Hello world! <img src="https://github.com/screwnet/screwnet/blob/dev/wave.gif" align="top" width="30px">
 
 <!--
 **screwnet/screwnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
