@@ -6,17 +6,17 @@
 ### My name is Nikhil and I go by name `screwnet` here :sunglasses:
 
 - 🔭 I’m currently in pursuit to make life easier by automating anything and everything!
-- :computer: At core, I love Linux and support Open Source
+- :computer: At core, I love <span><img src="./Tux.svg.png" alt="Tux" width="20px"></span>&nbsp;Linux and support Open Source
 - :postbox:  You can find me at:
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhilvinoy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<span><img src="https://commons.wikimedia.org/wiki/File:Tux.svg" alt="Tux" width="50px"></span>&nbsp;
 
 <!--START_SECTION:activity-->
 
 Wondering how I created this?
 
-[Check it out here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme "Managing your profile README")
+* [Check it out here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme "Managing your profile README")
+* [Emoji references](https://gist.github.com/rxaviers/7360908)
 
-[Emoji references](https://gist.github.com/rxaviers/7360908)
+Free to use with GPLv3
