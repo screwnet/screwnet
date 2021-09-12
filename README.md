@@ -5,6 +5,7 @@
 ## Welcome to my GitHub page
 ### My name is Nikhil and I go by name `screwnet` here :sunglasses:
 
+- :necktie: Cloud engineer at [USEReady Technology]
 - 🔭 I’m currently in pursuit to make life easier by automating anything and everything!
 - :hearts: At core, I love <span><img src="./Tux.svg.png" alt="Tux" width="20px"></span>&nbsp;Linux and support Open Source
 - :postbox:  You can find me at:
@@ -13,7 +14,6 @@
 
 <!--START_SECTION:activity-->
 
-Wondering how to create this?
 <h3 align="left">Languages and Tools I mostly work with:</h3>
 <p align="center">
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="80" height="40"/> </a>
