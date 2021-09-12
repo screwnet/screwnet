@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello world! 👋
 
 <!--
-**screwnet/screwnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**screwnet/screwnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## Welcome to my GitHub page
+### My name is Nikhil and I go by name `screwnet` here :sunglasses:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently in pursuit to make life easier by automating anything and everything!
+- :computer: At core, I love Linux and support Open Source
+- :postbox:  You can find me at:
+<p align="left">
+<a href="https://www.linkedin.com/in/nikhilvinoy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img scr="https://commons.wikimedia.org/wiki/File:Tux.svg#/media/File:Tux.svg" alt="Tux" >
+
+Wondering how I created this?
+
+[Check it out here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme "Managing your profile README")
+
+[Emoji references](https://gist.github.com/rxaviers/7360908)
