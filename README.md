@@ -9,9 +9,9 @@
 - :computer: At core, I love Linux and support Open Source
 - :postbox:  You can find me at:
 <p align="left">
-<a href="https://www.linkedin.com/in/nikhilvinoy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nikhilvinoy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img scr="https://commons.wikimedia.org/wiki/File:Tux.svg#/media/File:Tux.svg" alt="Tux" >
+<span><img scr="https://commons.wikimedia.org/wiki/File:Tux.svg#/media/File:Tux.svg" alt="Tux" width="30px"></span>&nbsp;
 
 Wondering how I created this?
 
