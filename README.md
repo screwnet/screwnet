@@ -36,3 +36,6 @@ Wondering how to create this?
 * [Emoji references](https://gist.github.com/rxaviers/7360908)
 
 Free to use with GPLv3
+Free to use with GPLv3 <br>
+Best viewed in [dark mode](https://github.com/settings/appearance)
+<br>
