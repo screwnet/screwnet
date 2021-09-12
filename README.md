@@ -35,7 +35,6 @@ Wondering how to create this?
 * [Check it out here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme "Managing your profile README")
 * [Emoji references](https://gist.github.com/rxaviers/7360908)
 
-Free to use with GPLv3
 Free to use with GPLv3 <br>
 Best viewed in [dark mode](https://github.com/settings/appearance)
 <br>
