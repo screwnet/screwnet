@@ -12,6 +12,9 @@
 <a href="https://www.linkedin.com/in/nikhilvinoy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/screwnet/screwnet/pull/1) in [screwnet/screwnet](https://github.com/screwnet/screwnet)
+2. 💪 Opened PR [#1](https://github.com/screwnet/screwnet/pull/1) in [screwnet/screwnet](https://github.com/screwnet/screwnet)
+<!--END_SECTION:activity-->
 
 Wondering how I created this?
 
