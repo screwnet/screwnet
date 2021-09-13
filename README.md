@@ -13,8 +13,8 @@
 <a href="https://www.linkedin.com/in/nikhilvinoy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/screwnet/screwnet/pull/2) in [screwnet/screwnet](https://github.com/screwnet/screwnet)
-2. 💪 Opened PR [#2](https://github.com/screwnet/screwnet/pull/2) in [screwnet/screwnet](https://github.com/screwnet/screwnet)
+1. 🗣 Commented on [#20882](https://github.com/hashicorp/terraform-provider-aws/issues/20882) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+2. 🎉 Merged PR [#2](https://github.com/screwnet/screwnet/pull/2) in [screwnet/screwnet](https://github.com/screwnet/screwnet)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools I mostly work with:</h3>
